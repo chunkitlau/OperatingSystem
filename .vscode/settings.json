@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "algorithm": "cpp",
+        "unistd.h": "c",
+        "types.h": "c",
+        "random": "c"
+    }
+}
